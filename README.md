@@ -1,1 +1,3 @@
-# Nextjs basic
+# Nextjs-basic
+
+first nextjs app
